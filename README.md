@@ -1,1 +1,1 @@
-# freshtomato-mips
+# crosstools-ng-tomato-toolchain
