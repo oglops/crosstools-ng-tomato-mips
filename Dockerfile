@@ -1,5 +1,5 @@
 
-FROM docker.io/library/ubuntu:14.04
+FROM ubuntu:14.04
 MAINTAINER oglop
 ARG user=tomato
 
